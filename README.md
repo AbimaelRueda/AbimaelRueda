@@ -1,5 +1,13 @@
 ### HOLA... 👋 soy Abimael Rueda
 
+# 🚀Soy:
+🏆Soy Ingeniero en Ciencias de la Computación
+🏆Soy Desarrollador Full Stack
+
+✔️Soy un hombre aventurero, soy amante de la tecnología y dispuesto a enfrentar nuevos desafios en territorios desconocidos. Algo que me describe es la organización, la puntualidad y el trabajo en equipo.
+
+# 🔍 Contacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimael-rueda-galindo-4b131b244/)
 <!--
 **AbimaelRueda/AbimaelRueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
